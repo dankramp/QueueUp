@@ -1,0 +1,3 @@
+function getAuth() {
+    return "BQD94YyrQgXrUYKAQLpkYo_Wn_HkOpvIGHTMz0cwsJXZhw_Z8CWSz3Gjn9puyiq6Bei9ltEoAGn1vOODFkoZG3kr6hbNo9pgUnr5TUCbHVADd9aasd5cKx6cG2d6nGAd540D0XzCUBao";
+}

@@ -1,0 +1,7 @@
+from django.conf import urls
+
+from . import views
+
+urls = [
+    url(r'^$', views.index, name='index'),
+]

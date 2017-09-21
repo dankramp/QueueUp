@@ -1,0 +1,11 @@
+from django.shortcuts import render, get_object_or_404
+from django.http import HttpResponse
+
+from .models import Room, Playlist, Song
+
+def room(request, room_num):
+    _room = get_object_or_404(Room, 
+    return render(request, 'qup/room.html', {'room_num': room_num})
+
+def badURL(request):
+    return(HttpResponse("This is not a page??"))
