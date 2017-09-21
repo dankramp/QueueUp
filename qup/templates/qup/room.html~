@@ -1,3 +1,0 @@
-<h1>Welcome to Room {{ room_num }}!</h1>
-
-<p>This page is pretty sick</p>

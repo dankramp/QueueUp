@@ -1,4 +1,0 @@
-<h1>This room does not exist</h1>
-
-<p>Room {{ room_num }} is a currently open room. </ br>
-Please check that you entered it correctly or <a href="#">create a new room!</a></p>
